@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muthu kumar</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer from Tamil Nadu</h3>
 
 - 🔭 I’m currently working on **Athulya Senior Care**
 
